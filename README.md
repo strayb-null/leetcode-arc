@@ -41,15 +41,15 @@ Cada problema aqui passou pelo seguinte processo (ou não, você nunca saberá):
 ## Estrutura
 
 ```
-leetcode-grind/
-├── arrays/
-├── strings/
-├── linked_lists/
-├── stacks_and_queues/
-├── trees/
-├── heaps/
-├── graphs/
-└── dynamic_programming/
+leetcode-arc/
+├── Arrays/
+├── Strings/
+├── Linked_Lists/
+├── Stacks_and_Queues/
+├── Trees/
+├── Heaps/
+├── Graphs/
+└── Dynamic_Programming/
 ```
 
 ---
@@ -58,7 +58,7 @@ leetcode-grind/
 
 | Categoria           | Resolvidos |
 | ------------------- | ---------- |
-| Arrays              | 0          |
+| Arrays              | 2          |
 | Strings             | 0          |
 | Linked Lists        | 0          |
 | Stacks & Queues     | 0          |
@@ -66,7 +66,7 @@ leetcode-grind/
 | Heaps               | 0          |
 | Graphs              | 0          |
 | Dynamic Programming | 0          |
-| **Total**           | **0**      |
+| **Total**           | **2**      |
 
 Provavelmente vou esquecer de atualizar essa tabela de progresso, mas o que importa é a intenção
 
@@ -78,6 +78,8 @@ Provavelmente vou esquecer de atualizar essa tabela de progresso, mas o que impo
 
 | #   | Problema | Categoria | Solução |
 | --- | -------- | --------- | ------- |
+| 217 | Contains Duplicate | Arrays | [ver](Arrays/217_contains_duplicate.py) |
+| 268 | Missing Number | Arrays | [ver](Arrays/268_missing_number.py) |
 
 ### 🟡 Medium
 
