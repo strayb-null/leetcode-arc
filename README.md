@@ -58,7 +58,7 @@ leetcode-arc/
 
 | Categoria           | Resolvidos |
 | ------------------- | ---------- |
-| Arrays              | 2          |
+| Arrays              | 3          |
 | Strings             | 0          |
 | Linked Lists        | 0          |
 | Stacks & Queues     | 0          |
@@ -66,7 +66,7 @@ leetcode-arc/
 | Heaps               | 0          |
 | Graphs              | 0          |
 | Dynamic Programming | 0          |
-| **Total**           | **2**      |
+| **Total**           | **3**      |
 
 Provavelmente vou esquecer de atualizar essa tabela de progresso, mas o que importa é a intenção
 
@@ -80,6 +80,7 @@ Provavelmente vou esquecer de atualizar essa tabela de progresso, mas o que impo
 | --- | -------- | --------- | ------- |
 | 217 | Contains Duplicate | Arrays | [ver](Arrays/217_contains_duplicate.py) |
 | 268 | Missing Number | Arrays | [ver](Arrays/268_missing_number.py) |
+| 1929 | Concatenation of Array | Arrays | [ver](Arrays/1929_concatenation_of_array.py) |
 
 ### 🟡 Medium
 
